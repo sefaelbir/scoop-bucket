@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sefaelbir/netinfo/releases/download/v1.0.0/netinfo_1.0.0_windows_amd64.zip",
+            "bin": [
+                "netinfo.exe"
+            ],
+            "hash": "244c6320fe681f580f903f714996a7bc43e658744124bd3e1f8cc9f0e315e109"
+        }
+    },
+    "homepage": "https://github.com/sefaelbir/netinfo",
+    "license": "MIT",
+    "description": "Network intelligence CLI for domains and IP addresses"
+}
